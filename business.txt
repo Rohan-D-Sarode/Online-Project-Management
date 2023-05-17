@@ -1,0 +1,9 @@
+projects: will hold project id, project name , working project manager id.
+
+emloyees: employee id, employee name, project id of the working project, and id of the project manager.
+
+project manager : project manager id, project manager name,  wokring project id.
+
+delivery managers : deliver manager id, delivery manager name, project manager id, project id.
+
+stakeholders : stakeholder id, stakeholder name, project id, delivery managers id.
